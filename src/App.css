@@ -2,20 +2,17 @@
   text-align: center;
 }
 
-.App-logo {
+.Belt {
   height: 40vmin;
   pointer-events: none;
 }
 
-.Video {
-  height: 50vmin;
-}
 
-/* @media (prefers-reduced-motion: no-preference) {
-  .App-logo {
+@media (prefers-reduced-motion: no-preference) {
+  .Belt {
     animation: App-logo-spin infinite 20s linear;
   }
-} */
+}
 
 .App-header {
   background-color: #282c34;

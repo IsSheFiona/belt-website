@@ -1,11 +1,11 @@
-import leedance from './leedance.mp4';
+import belt from './starwarsbelt.jpg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <video controls autostart autoplay src={leedance} className="Video" />
+        <img src={belt} className="Belt" />
         <p>
           Lee's Shit Belts
         </p>
